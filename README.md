@@ -1,0 +1,2 @@
+# studygit
+about git
